@@ -10,3 +10,5 @@ This was based off of a talk at [Bath Digital Festival 2019](https://bathdigital
 and both were based on [this](https://medium.com/@sam_ollason/react-native-vs-swift-ios-c144496f1519) article I wrote on Medium.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+To run the slides locally run `npm i` and `npm start`
