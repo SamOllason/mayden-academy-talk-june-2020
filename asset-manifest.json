@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/mayden-academy-talk-june-2020/static/css/main.b100e6da.chunk.css",
+    "main.js": "/mayden-academy-talk-june-2020/static/js/main.1534718c.chunk.js",
+    "main.js.map": "/mayden-academy-talk-june-2020/static/js/main.1534718c.chunk.js.map",
+    "runtime-main.js": "/mayden-academy-talk-june-2020/static/js/runtime-main.efad2831.js",
+    "runtime-main.js.map": "/mayden-academy-talk-june-2020/static/js/runtime-main.efad2831.js.map",
+    "static/css/2.4cf5f81b.chunk.css": "/mayden-academy-talk-june-2020/static/css/2.4cf5f81b.chunk.css",
+    "static/js/2.bebbff35.chunk.js": "/mayden-academy-talk-june-2020/static/js/2.bebbff35.chunk.js",
+    "static/js/2.bebbff35.chunk.js.map": "/mayden-academy-talk-june-2020/static/js/2.bebbff35.chunk.js.map",
+    "index.html": "/mayden-academy-talk-june-2020/index.html",
+    "precache-manifest.0ead5911b495e54ccc5c5778790dd599.js": "/mayden-academy-talk-june-2020/precache-manifest.0ead5911b495e54ccc5c5778790dd599.js",
+    "service-worker.js": "/mayden-academy-talk-june-2020/service-worker.js",
+    "static/css/2.4cf5f81b.chunk.css.map": "/mayden-academy-talk-june-2020/static/css/2.4cf5f81b.chunk.css.map",
+    "static/css/main.b100e6da.chunk.css.map": "/mayden-academy-talk-june-2020/static/css/main.b100e6da.chunk.css.map",
+    "static/media/FlexBoxStyling.png": "/mayden-academy-talk-june-2020/static/media/FlexBoxStyling.78a8d998.png",
+    "static/media/InterfaceBuilderStyling1.png": "/mayden-academy-talk-june-2020/static/media/InterfaceBuilderStyling1.17d347ea.png",
+    "static/media/InterfaceBuilderStyling2.png": "/mayden-academy-talk-june-2020/static/media/InterfaceBuilderStyling2.f60f8777.png",
+    "static/media/WebStormSShot.png": "/mayden-academy-talk-june-2020/static/media/WebStormSShot.a1e5bbb9.png",
+    "static/media/XcodeSShot.png": "/mayden-academy-talk-june-2020/static/media/XcodeSShot.469e71cc.png",
+    "static/media/bridge.png": "/mayden-academy-talk-june-2020/static/media/bridge.ebf22707.png",
+    "static/media/firstSlide.png": "/mayden-academy-talk-june-2020/static/media/firstSlide.6490d74b.png",
+    "static/media/formidable-logo.svg": "/mayden-academy-talk-june-2020/static/media/formidable-logo.83119921.svg",
+    "static/media/good-work.gif": "/mayden-academy-talk-june-2020/static/media/good-work.9cb168d2.gif",
+    "static/media/jsxExample.png": "/mayden-academy-talk-june-2020/static/media/jsxExample.fab1b995.png",
+    "static/media/pino.jpg": "/mayden-academy-talk-june-2020/static/media/pino.d85be94b.jpg",
+    "static/media/react-native-logo.png": "/mayden-academy-talk-june-2020/static/media/react-native-logo.248cb156.png",
+    "static/media/reactNativeArchitecture.png": "/mayden-academy-talk-june-2020/static/media/reactNativeArchitecture.a003bdf5.png",
+    "static/media/sponsor1.png": "/mayden-academy-talk-june-2020/static/media/sponsor1.7e249c97.png",
+    "static/media/sponsor2.png": "/mayden-academy-talk-june-2020/static/media/sponsor2.92312d3d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.efad2831.js",
+    "static/css/2.4cf5f81b.chunk.css",
+    "static/js/2.bebbff35.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.1534718c.chunk.js"
+  ]
+}
