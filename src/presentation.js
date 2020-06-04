@@ -383,7 +383,6 @@ export default class Presentation extends React.Component {
                         <br/>
 
                         <ListItem bulletStyle="star">React native > Native iOS</ListItem>
-                        <ListItem bulletStyle="star">React native > Native iROS</ListItem>
                         <br/>
 
                         <ListItem bulletStyle="star">React native same as React for the web</ListItem>
