@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "111df9bb1d3efecfaaf3e40c12d097a5",
+    "revision": "54b24a172e1d48de141f5cea13ee6674",
     "url": "/mayden-academy-talk-june-2020/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mayden-academy-talk-june-2020/static/css/2.4cf5f81b.chunk.css"
   },
   {
-    "revision": "2221469d2d58897927f2",
+    "revision": "40a02ed4f39ea13eb267",
     "url": "/mayden-academy-talk-june-2020/static/css/main.b100e6da.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mayden-academy-talk-june-2020/static/js/2.bebbff35.chunk.js"
   },
   {
-    "revision": "2221469d2d58897927f2",
-    "url": "/mayden-academy-talk-june-2020/static/js/main.c0b68be4.chunk.js"
+    "revision": "40a02ed4f39ea13eb267",
+    "url": "/mayden-academy-talk-june-2020/static/js/main.b1233440.chunk.js"
   },
   {
     "revision": "0eaf92ae1f89008944a9",

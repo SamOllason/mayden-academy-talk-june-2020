@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/mayden-academy-talk-june-2020/precache-manifest.452deed8efa0b6d64939ff5450bdd1d2.js"
+  "/mayden-academy-talk-june-2020/precache-manifest.4bfbc6120c4bda16a59666f950960f59.js"
 );
 
 self.addEventListener('message', (event) => {
